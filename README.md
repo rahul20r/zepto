@@ -1,5 +1,5 @@
 # 🛒 Zepto E-commerce SQL Data Analyst Portfolio Project
-![Netflix Logo](https://github.com/f4196c290661ac524ce8d8fda204dfca63ee6715)
+![ZEPTO Logo](Logo_of_Zepto.png)
 
 This is a complete, real-world data analyst portfolio project based on an e-commerce inventory dataset scraped from [Zepto](https://www.zeptonow.com/) — one of India’s fastest-growing quick-commerce startups. This project simulates real analyst workflows, from raw data exploration to business-focused data analysis.
 
